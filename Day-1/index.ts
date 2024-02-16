@@ -20,12 +20,12 @@
 
 // reverse the string
 
-let str: string = " juber"
+// let str: string = " juber"
 
-let temp: string = ""
+// let temp: string = ""
 
-for (let i = str.length-1; i >=0; i--){
-    temp+=str[i]
-}
+// for (let i = str.length-1; i >=0; i--){
+//     temp+=str[i]
+// }
 
-console.log(temp)
+// console.log(temp)
